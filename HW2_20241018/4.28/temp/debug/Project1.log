@@ -1,0 +1,20 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.c
+C:\c_code\HW2_20241018\4.28\source\Main.c(21,21): warning C4477: 'scanf_s' : 格式字串 '%1f' 需要 'float *' 類型的引數，但 variadic 引數 1 的類型為 'double *'
+      C:\c_code\HW2_20241018\4.28\source\Main.c(21,21):
+      請考慮在格式字串中使用 '%lf'
+  
+C:\c_code\HW2_20241018\4.28\source\Main.c(28,21): warning C4477: 'scanf_s' : 格式字串 '%1f' 需要 'float *' 類型的引數，但 variadic 引數 1 的類型為 'double *'
+      C:\c_code\HW2_20241018\4.28\source\Main.c(28,21):
+      請考慮在格式字串中使用 '%lf'
+  
+C:\c_code\HW2_20241018\4.28\source\Main.c(30,21): warning C4477: 'scanf_s' : 格式字串 '%1f' 需要 'float *' 類型的引數，但 variadic 引數 1 的類型為 'double *'
+      C:\c_code\HW2_20241018\4.28\source\Main.c(30,21):
+      請考慮在格式字串中使用 '%lf'
+  
+C:\c_code\HW2_20241018\4.28\source\Main.c(44,21): warning C4477: 'scanf_s' : 格式字串 '%1f' 需要 'float *' 類型的引數，但 variadic 引數 1 的類型為 'double *'
+      C:\c_code\HW2_20241018\4.28\source\Main.c(44,21):
+      請考慮在格式字串中使用 '%lf'
+  
+  Project1.vcxproj -> C:\c_code\HW2_20241018\4.28\temp\debug\Project1.exe
